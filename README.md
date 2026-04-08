@@ -12,15 +12,30 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 📈 Meu objetivo é evoluir constantemente e alcançar o nível profissional, desenvolvendo habilidades sólidas e consistentes em tecnologia.
 
 ---
-## 📊 Minha evolução no GitHub
+## 📊 GitHub Stats
+
+• Total Stars Earned: ⭐  
+• Total Commits: 💻  
+• Total PRs: 🔀  
+• Total Issues: 🐛  
+
+📅 Contributed to (last year):  
+Projetos acadêmicos e pessoais  
+
+---
+
+## 💻 Most Used Languages
+
+• C#  
+• HTML  
+• CSS  
+• JavaScript  
+• Java  
+
+---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Pedro-hsj&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 
