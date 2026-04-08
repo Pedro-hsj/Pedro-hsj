@@ -12,15 +12,17 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 📈 Meu objetivo é evoluir constantemente e alcançar o nível profissional, desenvolvendo habilidades sólidas e consistentes em tecnologia.
 
 ---
-## 📊 GitHub Stats
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Pedro-hsj&theme=tokyonight&hide_border=true"/>
+  <img src="https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
