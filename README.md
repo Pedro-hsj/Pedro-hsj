@@ -4,13 +4,11 @@
 🎓 Sistemas de Informação • PUC Minas <br>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=120&section=header"/>
 </p>
 
----
 
 ## Sobre mim
 
