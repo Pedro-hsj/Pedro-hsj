@@ -6,11 +6,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight)
-
----
-
 ## Sobre mim
 
 Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minha jornada como desenvolvedor com foco total em prática e evolução, sempre buscando transformar conhecimento em soluções reais e visão prática da área.
@@ -37,6 +32,12 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45"/>
 </p>
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
