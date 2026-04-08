@@ -35,12 +35,6 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato
 
 <p align="center">
