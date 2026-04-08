@@ -6,9 +6,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Focado+em+C%23+e+Back-end;Criando+projetos+na+prática;Evoluindo+todos+os+dias..." />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight)
 
 ---
 
@@ -25,8 +24,10 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 ### 💻 Linguagens e Desenvolvimento
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
 ### ⚙️ Ferramentas e Ambiente
