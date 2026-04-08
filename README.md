@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
+
 ## Sobre mim
 
 Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minha jornada como desenvolvedor com foco total em prática e evolução, sempre buscando transformar conhecimento em soluções reais e visão prática da área.
