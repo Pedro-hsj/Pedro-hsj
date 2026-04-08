@@ -1,12 +1,7 @@
 <h1 align="center">💻 Pedro Henrique Santos</h1>
-
+--
 <p align="center">
 🎓 Sistemas de Informação • PUC Minas <br>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=120&section=header"/>
 </p>
 
 
@@ -17,10 +12,21 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 📈 Meu objetivo é evoluir constantemente e alcançar o nível profissional, desenvolvendo habilidades sólidas e consistentes em tecnologia.
 
 ---
+## 📊 Minha evolução no GitHub
 
-## Contribuições
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Snake animation](https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Pedro-hsj&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
