@@ -23,12 +23,6 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
   <img height="160" src="https://streak-stats.demolab.com?user=Pedro-hsj&theme=tokyonight&hide_border=true"/>
 </p>
 
-C#         ███████████░░
-HTML       █████████░░░
-CSS        █████████░░░
-JavaScript █████░░░░░░
-Java       ████░░░░░░░
-
 ---
 
 <p align="center">
