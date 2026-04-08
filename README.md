@@ -14,23 +14,20 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 ---
 ## 📊 GitHub Stats
 
-• Total Stars Earned: ⭐  
-• Total Commits: 💻  
-• Total PRs: 🔀  
-• Total Issues: 🐛  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-📅 Contributed to (last year):  
-Projetos acadêmicos e pessoais  
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=Pedro-hsj&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## 💻 Most Used Languages
-
-• C#  
-• HTML  
-• CSS  
-• JavaScript  
-• Java  
+C#         ███████████░░
+HTML       █████████░░░
+CSS        █████████░░░
+JavaScript █████░░░░░░
+Java       ████░░░░░░░
 
 ---
 
