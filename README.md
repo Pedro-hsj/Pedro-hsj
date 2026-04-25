@@ -15,18 +15,20 @@ Sou estudante de Sistemas de Informação na PUC Minas, e estou construindo minh
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedro-hsj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hsj&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://github.com/Pedro-hsj/Pedro-hsj/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
 
 ---
 
